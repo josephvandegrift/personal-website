@@ -8,16 +8,22 @@
   name = "Posts"
   weight = 200
   identifier = "posts"
-  url = "/post/"
+  url = "/posts/"
+  
+  [[main]]
+  name = "Publications"
+  weight = 300
+  identifier = "publications"
+  url = "/publications/"
 
   [[main]]
   name = "About"
-  weight = 300
+  weight = 400
   identifier = "about"
   url = "/about/"
 
   [[main]]
   name = "Contact"
-  weight = 400
+  weight = 500
   identifier = "contact"
   url = "/contact/"

@@ -128,5 +128,16 @@
       
     </item>
     
+    <item>
+      <title>Publications</title>
+      <link>https://example.com/publications/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/</guid>
+      
+        <description> Contact Symmetries of a Model in Optimal Investment Theory  </description>
+      
+    </item>
+    
   </channel>
 </rss>

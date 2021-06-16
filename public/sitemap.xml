@@ -95,6 +95,9 @@
     <loc>https://example.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/publications/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/tags/index/</loc>
   </url>
 </urlset>
