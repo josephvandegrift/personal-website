@@ -17,6 +17,8 @@ doNotLoadAnimations = false
 contactFormAction = "https://formspree.io/f/xnqlvgqd"
 # Google Site Verify
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+# Google Analytics
+googleAnalytics = "UA-199631609-1"
 singleDateFormat = "2/1/2006"
 indexDateFormat = "2/1/2006"
 listDateFormat = "2/1/2006"
